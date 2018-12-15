@@ -2,9 +2,9 @@
 
 # change the values of num1, num2 and num3
 # for a different result
-num1 = 10
-num2 = 14
-num3 = 12
+num1 = 15
+num2 = 18
+num3 = 20
 
 # uncomment following lines to take three numbers from user
 #num1 = float(input("Enter first number: "))
