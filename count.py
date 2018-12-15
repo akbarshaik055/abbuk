@@ -4,9 +4,9 @@ def word_count(str):
 
     for word in words:
         if word in counts:
-            counts[word] += 1
+            counts[word] += 5
         else:
-            counts[word] = 1
+            counts[word] = 5
 
     return counts
     print( word_count('the quick brown fox jumps over the lazy dog.'))
